@@ -28,9 +28,3 @@ The dataset `course_reviews.csv` contains:
 - **Questions Asked:** Number of questions asked by the user
 
 ---
-
-## 🛠 Installation & Setup
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-repo/course-reviews-analysis.git
-   cd course-reviews-analysis
